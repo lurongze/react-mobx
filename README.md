@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 关于装饰器
+ 这里使用了react-app-rewired 包来对create-react-app 的配置进行修改。
+ 具体的使用可以看react-app-rewired 的github 地址
+ https://github.com/timarney/react-app-rewired。
+ 配置修改在 config-overrides.js 里面
+ antd 的按需加载也是在这里实现的
+
 ## Available Scripts
 
 In the project directory, you can run:
